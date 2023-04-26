@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "彭彭.First",
+            "projectName": "learn_java_c7b1dd0d"
+        },
         {
             "type": "java",
             "name": "Current File",
