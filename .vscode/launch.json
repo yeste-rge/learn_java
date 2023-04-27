@@ -6,22 +6,15 @@
     "configurations": [
         {
             "type": "java",
-            "name": "First",
-            "request": "launch",
-            "mainClass": "彭彭.First",
-            "projectName": "learn_java_c7b1dd0d"
-        },
-        {
-            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "Hello",
+            "name": "First",
             "request": "launch",
-            "mainClass": "彭彭.Hello",
+            "mainClass": "First",
             "projectName": "learn_java_c7b1dd0d"
         }
     ]
