@@ -1,9 +1,12 @@
 public class DataTypeVariable{
     public static void main(String[] args){
-        // 在终端机印出各种资料形态的资料
-        // 整数,预设是 int 形态
-        System.out.println(3);
-        System.out.println(120);
+        //在终端机印出各种资料形态的资料
+        //整数,预设是 int 形态
+        int x;
+        x=3;    
+        System.out.println(x);
+        x = 120;
+        System.out.println(x);    
         // 长整数,数字的后面特别加上 L
         System.out.println(2000000000000L);
         // 浮点数,预设为 double 形态
