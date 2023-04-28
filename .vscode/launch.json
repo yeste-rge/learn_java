@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DataTypeVariable",
+            "request": "launch",
+            "mainClass": "DataTypeVariable",
+            "projectName": "learn_java_c7b1dd0d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
