@@ -44,5 +44,5 @@ public class DataTypeVariable{
         //System.out.println("");
 
     }
-
+    
 }
