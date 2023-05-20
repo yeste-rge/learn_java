@@ -32,10 +32,14 @@ public class DataTypeVariable{
         // System.out.println('a');
         
         // 字串:可以包含 0 到多个字元
+        
+        //System.out.println("哈喽你好");
+       
         String s="哈喽你好";
         System.out.println(s);
         s="Hello Java";
         System.out.println(s);
+
         // System.out.println("Halo");
         //System.out.println("");
 
