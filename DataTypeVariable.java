@@ -2,14 +2,13 @@ public class DataTypeVariable{
     public static void main(String[] args){
         //在终端机印出各种资料形态的资料
         //整数,预设是 int 形态
-        System.out.println(3);
-        System.out.println(120);
-        
+       
+        // System.out.println(3);
+        // System.out.println(120);
+
         // 散列値,预讯后面加上 #
         int x;
         x=3;
-        int s;
-        s=3;    
         System.out.println(x);
         x = 120;
         System.out.println(x);    
