@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DatatypeConversion",
+            "request": "launch",
+            "mainClass": "DatatypeConversion",
+            "projectName": "learn_java_c7b1dd0d"
+        },
+        {
+            "type": "java",
             "name": "DataTypeVariable",
             "request": "launch",
             "mainClass": "DataTypeVariable",
